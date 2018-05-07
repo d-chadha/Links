@@ -1,0 +1,2 @@
+Serialization
+https://dzone.com/articles/what-you-need-to-know-about-serialization
